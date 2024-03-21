@@ -1,5 +1,4 @@
 # MOOC-clickstream-dataset
-# Clickstream-datasets
 1st column: id, the id of user event. 
 
 2st column: crdate, the creation time of user event.
